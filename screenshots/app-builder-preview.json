@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Last of the Druids",
+      "hasCanvas": false,
+      "bodyTextLen": 3095,
+      "bodyTextHash": "4d40928ee8fd6fd63c18a858544647ad8e2b774380e1e51438ea5923e32be5ea",
+      "bodyTextPrefix": "WRAECLAST THE GROVE REMEMBERS… FAN-MADE. NOT AFFILIATED WITH GRI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Last of the Druids",
+      "hasCanvas": false,
+      "bodyTextLen": 3095,
+      "bodyTextHash": "4d40928ee8fd6fd63c18a858544647ad8e2b774380e1e51438ea5923e32be5ea",
+      "bodyTextPrefix": "WRAECLAST THE GROVE REMEMBERS… FAN-MADE. NOT AFFILIATED WITH GRI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

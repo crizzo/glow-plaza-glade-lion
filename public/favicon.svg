@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="The Last of the Druids">
+  <rect width="32" height="32" fill="#050605"/>
+  <circle cx="16" cy="16" r="13.5" fill="#c9c0a8"/>
+  <g fill="none" stroke="#050605" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 24 V10.5"/>
+    <path d="M16 15.5 L9.5 8.5"/>
+    <path d="M16 15.5 L22.5 8.5"/>
+    <path d="M16 10.5 L12.4 6.2"/>
+    <path d="M16 10.5 L19.6 6.2"/>
+  </g>
+  <circle cx="16" cy="15.5" r="1.7" fill="#c45c2a"/>
+</svg>

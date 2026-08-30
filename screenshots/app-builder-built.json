@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Last of the Druids",
+      "hasCanvas": false,
+      "bodyTextLen": 3042,
+      "bodyTextHash": "1ad13b1c1eb9d6bdcc7f6c18f56cb54f6557b58b9297ecd3c22eb4bd78fb58ff",
+      "bodyTextPrefix": "WRAECLAST THE GROVE REMEMBERS… THE DRUID ORIGINS SKILLS FORMS LI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Last of the Druids",
+      "hasCanvas": false,
+      "bodyTextLen": 3042,
+      "bodyTextHash": "1ad13b1c1eb9d6bdcc7f6c18f56cb54f6557b58b9297ecd3c22eb4bd78fb58ff",
+      "bodyTextPrefix": "WRAECLAST THE GROVE REMEMBERS… THE DRUID ORIGINS SKILLS FORMS LI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
